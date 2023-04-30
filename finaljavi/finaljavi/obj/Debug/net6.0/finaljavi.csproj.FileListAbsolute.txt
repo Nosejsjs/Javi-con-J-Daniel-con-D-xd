@@ -1,0 +1,15 @@
+C:\Users\Daniel\source\repos\finaljavi\finaljavi\obj\Debug\net6.0\finaljavi.csproj.AssemblyReference.cache
+C:\Users\Daniel\source\repos\finaljavi\finaljavi\obj\Debug\net6.0\finaljavi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\source\repos\finaljavi\finaljavi\obj\Debug\net6.0\finaljavi.AssemblyInfoInputs.cache
+C:\Users\Daniel\source\repos\finaljavi\finaljavi\obj\Debug\net6.0\finaljavi.AssemblyInfo.cs
+C:\Users\Daniel\source\repos\finaljavi\finaljavi\obj\Debug\net6.0\finaljavi.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\source\repos\finaljavi\finaljavi\bin\Debug\net6.0\finaljavi.exe
+C:\Users\Daniel\source\repos\finaljavi\finaljavi\bin\Debug\net6.0\finaljavi.deps.json
+C:\Users\Daniel\source\repos\finaljavi\finaljavi\bin\Debug\net6.0\finaljavi.runtimeconfig.json
+C:\Users\Daniel\source\repos\finaljavi\finaljavi\bin\Debug\net6.0\finaljavi.dll
+C:\Users\Daniel\source\repos\finaljavi\finaljavi\bin\Debug\net6.0\finaljavi.pdb
+C:\Users\Daniel\source\repos\finaljavi\finaljavi\obj\Debug\net6.0\finaljavi.dll
+C:\Users\Daniel\source\repos\finaljavi\finaljavi\obj\Debug\net6.0\refint\finaljavi.dll
+C:\Users\Daniel\source\repos\finaljavi\finaljavi\obj\Debug\net6.0\finaljavi.pdb
+C:\Users\Daniel\source\repos\finaljavi\finaljavi\obj\Debug\net6.0\finaljavi.genruntimeconfig.cache
+C:\Users\Daniel\source\repos\finaljavi\finaljavi\obj\Debug\net6.0\ref\finaljavi.dll
